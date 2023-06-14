@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+ 
+}
+
+.generator{
+  text-align: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.box{
+  text-align: center;
+  justify-content: center;
+  margin: 30px auto;
+  float: none;
+  display: block;
+  padding: 5px;
+  max-width: 20rem;
+  min-width: 18rem;
+  color: #FFFFFF33;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.password{
+  border: 3px solid black;
+  border-radius: 10px;
+  max-width: 20rem;
+  min-width: 17rem;
+  justify-content: center;
+  padding: 15px;
+  margin-bottom: 10px;
+
+}
